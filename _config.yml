@@ -5,8 +5,8 @@ url: "https://github.com/s-eclaircir"
 # THEME-SPECIFIC CONFIGURATION
 title: Jupiter Cipher                                    # site's title
 description: ""      # used by search engines
-avatar: assets/img/admin/j_cipher.jpg                         # Empty for no avatar in navbar
-favicon: assets/img/admin/j_cipher.jpg                             # Icon displayed in the tab
+avatar: assets/img/admin/squid.jpg                         # Empty for no avatar in navbar
+favicon: assets/img/admin/squid.jpg                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Jupiter Cipher  # Change Blog header text
