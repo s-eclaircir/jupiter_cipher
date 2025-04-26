@@ -2,7 +2,7 @@
 author: jC
 layout: post
 title: The Application Season
-tags:[Blog,Year2023,jCsV1]
+tags: [Blog,Year2023,jCsV1]
 ---
 
 写文书的过程，其实也是在重新认识我自己。
